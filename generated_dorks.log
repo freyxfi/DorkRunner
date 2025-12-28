@@ -1,0 +1,9 @@
+[DDG] Dork: site:tesla.com inurl:admin | inurl:login | inurl:dashboard
+URL: https://duckduckgo.com/?q=site:tesla.com+inurl:admin+|+inurl:login+|+inurl:dashboard
+
+[DDG] Dork: site:tesla.com "api_key" | "apikey" | "api key"
+URL: https://duckduckgo.com/?q=site:tesla.com+"api_key"+|+"apikey"+|+"api+key"
+
+[GOOGLE] Dork: site:ibm.com (ext:pdf | ext:xls | ext:doc | ext:txt) intext:"confidential" | intext:"password"
+URL: https://www.google.com/search?q=site:ibm.com+(ext:pdf+|+ext:xls+|+ext:doc+|+ext:txt)+intext:"confidential"+|+intext:"password"
+
